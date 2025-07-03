@@ -1,0 +1,58 @@
+---
+title: "Proyecto Machine Learning"
+author: "Alexander Trilleras Martínez"
+date: "2025-07-03"
+output: html_document
+---
+
+# Atributos de un buen café
+
+### Objetivo del proyecto 
+
+Identificar las características que permiten establecer la puntuación que define a una buena taza de café.
+
+### Metodología  
+
+Para llevar a cabo  el desarrollo del proyecto se llevarán a cabo la siguiente metodología:   
+
+- Cargar los datos  en Google Colab  
+
+- Identificar posibles inconsistencias en los datos.   
+
+- Ajustar los datos teniendo en cuenta lo hallado en el paso anterior.  
+
+- Proponer al menos dos modelos que permitan cumplir con los objetivos propuestos.  
+
+- Validar los modelos.    
+
+### Características de los datos  
+Los datos con los que se espera desarrollar este trabajo corresponde a los registros de variedades de café del Instituto de la Calidad del Café (CQI, siglas en inglés), y que pueden ser encontradas de manera pública a través del siguiente enlace datos_cafe.
+Los datos contienen 1311 registros relacionados con revisores capacitados del CQI, los cuales evalúan las características del café tipo arábigo, dentro de estas se encuentran medidas de calidad, atributos del grano, métodos de cultivo, cosecha, entre otros. Dentro de las variables que están presentes en los datos, se encuentran las siguientes: 
+
+- Aroma   
+
+- Flavor  
+
+- Aftertaste  
+
+- Acidity  
+
+- Body  
+
+- Balance  
+
+- Uniformity  
+
+- Clean Cup  
+
+- Sweetness  
+
+- Cupper Points  
+
+- Moisture  
+
+
+
+
+
+
